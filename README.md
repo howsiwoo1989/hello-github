@@ -1,2 +1,2 @@
 # hello-github
-첫번째 저장소
+git 및 git 공부
