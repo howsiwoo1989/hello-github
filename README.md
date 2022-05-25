@@ -1,2 +1,2 @@
-# VueJs - TodoList 만들기
+# VueJs
 git 및 git 공부
