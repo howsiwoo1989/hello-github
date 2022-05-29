@@ -1,2 +1,4 @@
-# VueJs
-git 및 git 공부
+# Front-End Study Practice
+
+React.js
+Vue.js
