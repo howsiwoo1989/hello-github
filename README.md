@@ -1,7 +1,9 @@
-# VueJs - TodoList 만들기
+# Sass - 기본
 
-- VueCli 프로젝트 생성
-- 컴포넌트 생성 및 등록
-- ES6 연습
-- Vuex 연습
-- (시멘틱마크업 & UI스타일링 제외)
+- 파일 분리와 Nesting
+- 변수(Variable)
+- Mixin
+- Extend
+- 조건문과 반복문, 함수
+- Sass 컨벤션
+- 미디어쿼리
