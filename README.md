@@ -1,2 +1,2 @@
-# VueJs
-git 및 git 공부
+# Javascript 기본
+
