@@ -1,2 +1,2 @@
-# Javascript 기본
+# Javascript - 기본
 
