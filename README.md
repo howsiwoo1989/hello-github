@@ -1,8 +1,4 @@
-# Front-End Study Practice
+# NodeJs - 기초
 
-- Javascript
-- React.js
-- Vue.js
-- Sass
-- REST API
-- GraphQl
+- Common JS (계산 기능 모듈)
+- Node.js 패키지 생성 및 외부 패키지 사용하기
